@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My First Local Website</title>
+        <link rel="stylesheet" href="./resources/css/index.css" type="text/css" />
+    </head>
+    <body>
+        <heading>
+        <div class="banner"><div class="bannertext"><h1 id="name">Kyle Yoshimoto</h1>
+            <p>Hello! Welcome to my first local website!</p></div></div>
+            <h2>A little about me:</h2>
+                <p class="bio">I was born and raised in Southern California. 
+                I currently am attending University of California, Santa Barbara and pursuing a bachelors degree in Applied Mathematics. 
+                After I obtain my degree, I am interested in becoming a full-stack software developer one day so I can make the world a more efficient and better place for everyone.
+                I plan to do this by attending a professional coding bootcamp after I graduate from UCSB.
+                A passion for programming and technology is why I have choosen to pursue this route. 
+                It truly is amazing what can be done with a modern-day computer and I am excited to see what will be achieveable in the next few years. The sky is the limit.
+                Other than programming, I enjoy activities such as fishing, surfing, beach volleyball and any other outdoor activity.</p>
+            <h2>Click <a href="www.linkedin.com/in/kyle-yoshimoto-654203198">here</a> to visit my LinkedIn profile.</h2>
+            <ul>My goals are to...
+                <li>Obtain a Bachelors of science degree in Applied Mathmatics from UCSB.</li>
+                <li>Get paid to make a website.</li>
+                <li>Gain admission into a respectable coding bootcamp for software engineering.</li>
+                <li>Create my own software/application that is used by many people.</li>
+            </ul>
+            <ul>The languages I am familiar with so far are...
+                <li>Python</li>
+                <li>JavaScript</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>...and basic knowledge of R</li>
+            </ul>
+            <a href="./film.html"><img src="./resources/images/Minolta110ZoomSLRcopyMedium.jpeg" id="camerapic" alt="Minlota 110 Zoom SLR film camera"/></a>
+            <h2>Film photography</h2>
+                <p>I have recently came across a Minolta 110 Zoom SLR that was collecting dust in my parents closet. 
+                    With this point and shoot film camera, I have just started my hobby of film photography.
+                    110 film is known as the forgotten form of film which makes it hard to purchase film and get it developed. 
+                    The film is relatively inexpensive and the only place I can find it is on Amazon.com. 
+                    I have come across this cool little place called Dexter's Camera Laboratory in Ventura, CA where I can get my photos developed and printed.
+                </p>
+                <p>Click on the image above to visit my film photography gallary.</p>
+    </body>
+</html>
